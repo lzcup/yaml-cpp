@@ -18,8 +18,6 @@
   nodeevents.cpp
   null.cpp
   ostream_wrapper.cpp
-  正在生成代码...
-  正在编译...
   parse.cpp
   parser.cpp
   regex_yaml.cpp
@@ -31,5 +29,4 @@
   singledocparser.cpp
   stream.cpp
   tag.cpp
-  正在生成代码...
   Yaml.vcxproj -> D:\Dev\Blanco\Blanco\vendor\yaml\bin\Debug-windows-x86_64\Yaml\Yaml.lib
